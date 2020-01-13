@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "key": "EmptyPage",
+      "name": "空白页",
+      "description": "一个空白的页面，一切都从这里开始！",
+      "url": "https://github.com/guccihuiyuan/pyramid-blocks/tree/master/templates/EmptyPage",
+      "img": "https://github.com/guccihuiyuan/pyramid-blocks/blob/master/templates/EmptyPage/snapshot.png"
+    },
+    {
+      "key": "ProfileBasic",
+      "name": "基础详情页",
+      "description": "详情页可以向用户展示一个对象完整的描述信息,并且可以对一个对象进行编辑操作",
+      "url": "https://github.com/guccihuiyuan/pyramid-blocks/tree/master/templates/ProfileBasic",
+      "img": "https://github.com/guccihuiyuan/pyramid-blocks/blob/master/templates/ProfileBasic/snapshot.png"
+    },
+    {
+      "key": "FormBasicForm",
+      "name": "基础表单页",
+      "description": "表单页用于向用户收集或验证信息，基础表单常用于数据项较少的表单场景",
+      "url": "https://github.com/guccihuiyuan/pyramid-blocks/tree/master/templates/FormBasicForm",
+      "img": "https://github.com/guccihuiyuan/pyramid-blocks/blob/master/templates/FormBasicForm/snapshot.png"
+    }
+  ]
+}

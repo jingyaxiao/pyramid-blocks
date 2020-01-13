@@ -1,0 +1,8 @@
+.idea
+/.vscode
+yarn-error.log
+/dist
+/node_modules
+/pages
+.umi
+.umi-production

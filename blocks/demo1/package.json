@@ -1,0 +1,16 @@
+{
+  "name": "@pyramid-blocks/demo1",
+  "version": "0.0.1",
+  "description": "demo1!",
+  "authors": {
+    "name": "ys",
+    "email": "704807396@qq.com"
+  },
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}

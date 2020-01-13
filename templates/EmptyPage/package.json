@@ -1,0 +1,20 @@
+{
+  "name": "@pyramid-templates/empty",
+  "version": "0.0.1",
+  "description": "一个空白的页面，一切都从这里开始！",
+  "authors": {
+    "name": "ys",
+    "email": "704807396@qq.com"
+  },
+  "license": "ISC",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^4.5.9"
+  },
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
+}

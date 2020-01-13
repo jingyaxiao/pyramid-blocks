@@ -1,0 +1,20 @@
+{
+  "name": "@pyramid-templates/basic-profile",
+  "version": "0.0.1",
+  "description": "详情页可以向用户展示一个对象完整的描述信息,并且可以对一个对象进行编辑操作。",
+  "authors": {
+    "name": "ys",
+    "email": "704807396@qq.com"
+  },
+  "license": "ISC",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^4.5.9"
+  },
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
+}
